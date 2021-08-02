@@ -1,6 +1,6 @@
 {
-  "short_name": "Swap | Serum",
-  "name": "Swap | Serum",
+  "short_name": "Swap | CAPE Swap",
+  "name": "Swap | CAPE Swap",
   "icons": [
     {
       "src": "icon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#1f0b3e",
   "background_color": "#ffffff"
 }
